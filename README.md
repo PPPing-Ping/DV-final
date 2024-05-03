@@ -17,3 +17,11 @@
 | server端 | routes/post.mjs 、map.mjs                                       |
 
 ### 擷取
+
+
+![tagPost](https://github.com/PPPing-Ping/DV-final/assets/152831292/b638ad2d-7d78-456c-b78d-dbe7a6a3c3c9)
+![post](https://github.com/PPPing-Ping/DV-final/assets/152831292/1b113a9a-447c-4fe7-8eb6-bae97914a4e6)
+
+
+https://github.com/PPPing-Ping/DV-final/assets/152831292/7fa506ed-44ec-415a-be0f-27754b9dd446
+
