@@ -18,10 +18,11 @@
 
 ### 擷取
 
+<img src="https://github.com/PPPing-Ping/DV-final/assets/152831292/e62e5e0f-e0e3-4f77-8d11-d51d000ce968" alt="post" width="40%"/>
+<img src="https://github.com/PPPing-Ping/DV-final/assets/152831292/2dd20d18-6117-4bdd-9b7e-6ed24aa32aa8" alt="post" width="40%"/>
+<img src="https://github.com/PPPing-Ping/DV-final/assets/152831292/844f2f19-f2d1-4af8-a4e1-2daf472f82f4" alt="post" width="50%"/>
 
-![tagPost](https://github.com/PPPing-Ping/DV-final/assets/152831292/b638ad2d-7d78-456c-b78d-dbe7a6a3c3c9)
-![post](https://github.com/PPPing-Ping/DV-final/assets/152831292/1b113a9a-447c-4fe7-8eb6-bae97914a4e6)
+https://github.com/PPPing-Ping/DV-final/assets/152831292/91effffd-5287-4a54-92bd-9213791872f3
 
-
-https://github.com/PPPing-Ping/DV-final/assets/152831292/7fa506ed-44ec-415a-be0f-27754b9dd446
+https://github.com/PPPing-Ping/DV-final/assets/152831292/83a87258-0b77-4c79-b5a8-430908353f60
 
